@@ -2,47 +2,39 @@
 
 ## About Me
 
-I’m the kind of developer who enjoys the “real world” layer of tech where you automate the boring parts, debug what’s actually happening, and make systems behave consistently.  
-I like building **Windows CLI tooling**, writing **Python utilities that interact with the OS**, and going deep into **network troubleshooting** (sockets / DNS / TCP/IP).  
+I’m the kind of developer who enjoys the “real world” layer of tech where you automate the boring parts, debug what’s actually happening, and make systems behave consistently.
+
+I like building **Windows CLI tooling**, writing **Python utilities that interact with the OS**, and turning manual steps into **repeatable workflows**. Alongside that, I work on **computer vision / ML inference** and practical **data workflows** scraping/collecting data, cleaning + validating it, running analysis, and presenting results through simple reports or dashboards.
 
 If something is slow, manual, or unreliable I trace it, fix it, and usually script it so it doesn’t come back.
 
----
-
-## Tech Stack
-
-### Languages
-| Python | SQL |
-|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="SQL" /> |
-
-### Computer Vision & ML
-| PyTorch | OpenCV | Ultralytics | NVIDIA CUDA | Scikit-learn |
-|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" /> | <img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge" height="42" alt="Ultralytics" /> | <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="42" alt="NVIDIA CUDA" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn" /> |
-
-### Data & Visualization
-| Pandas | NumPy | Matplotlib | Power BI | Jupyter |
-|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="55" height="55" alt="NumPy" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" height="55" alt="Power BI" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55" alt="Jupyter" /> |
-
-### Tools & Automation
-| Git | Bash | CI/CD | Tkinter | ReportLab |
-|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="55" height="55" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55" alt="Bash" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" height="55" alt="CI/CD" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Tkinter" /> | <img src="https://img.shields.io/badge/ReportLab-111111?style=for-the-badge" height="42" alt="ReportLab" /> |
-
-### Networking & SysAdmin (with OS)
-| Socket | TCP/IP | DNS | Windows | Linux |
-|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Socket" /> | <img src="https://img.shields.io/badge/TCP%2FIP-111111?style=for-the-badge&logo=wireshark&logoColor=white" height="42" alt="TCP/IP" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="55" height="55" alt="DNS" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="55" height="55" alt="Windows" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" /> |
-
----
+My technical toolkit includes  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="Python"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25" alt="SQL"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="25" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&labelColor=111111&logo=nvidia&logoColor=white" height="25" alt="CUDA"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="25" alt="Scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="25" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="25" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="25" alt="Matplotlib"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" alt="Power BI"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="25" alt="Jupyter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="25" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="25" alt="CI/CD"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="25" alt="Bash"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&labelColor=111111&logo=streamlit&logoColor=white" height="25" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Sockets-111111?style=flat&labelColor=111111&logo=socketdotio&logoColor=white" height="25" alt="Sockets"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" height="25" alt="DNS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" height="25" alt="Windows"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="25" alt="Linux"/>
 
 **Fun Facts**
-- I like debugging more than guessing — logs → config → packets → fix.
-- I prefer CLI-first workflows (fast, scriptable, reproducible).
-- If a task is repeatable, I’ll automate it even if it takes longer the first time.
-- I learn by breaking things safely and rebuilding them cleaner.
+- Midnight snacking + debugging is a real combo
+- Chai is mandatory (productivity depends on it)
+- I trust logs more than assumptions
+- I automate stuff even if it takes longer the first time
+- Most “small issues” turn into deep rabbit holes for me
 
 <p align="center">
   <picture>
