@@ -22,6 +22,7 @@ My technical toolkit includes
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="25" alt="Jupyter"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="25" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="25" alt="CI/CD"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="25" alt="Docker"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="25" alt="Bash"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&labelColor=111111&logo=streamlit&logoColor=white" height="25" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Sockets-111111?style=flat&labelColor=111111&logo=socketdotio&logoColor=white" height="25" alt="Sockets"/>
