@@ -23,7 +23,7 @@ My technical toolkit includes
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="25" alt="Matplotlib"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25" alt="SQL"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&labelColor=111111&logo=streamlit&logoColor=white" height="25" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="25" alt="Grafana"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="25" alt="Prometheus"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" height="25" alt="InfluxDB"/>
