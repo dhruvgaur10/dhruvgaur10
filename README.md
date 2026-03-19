@@ -12,7 +12,7 @@ I like building **Windows CLI tooling**, writing **Python utilities that interac
 If something is slow, manual or unreliable I trace it, fix it, and usually script it so it doesn’t come back.
 
 
-**My Technical Toolkit Includes**  
+<h3 align="left">My Technical Toolkit Includes:</h3> 
 <p>
 <a href="https://www.python.org" title="python.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="Python"/></a>
@@ -90,7 +90,8 @@ If something is slow, manual or unreliable I trace it, fix it, and usually scrip
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" height="25" alt="Windows"/></a>
 </p>
 
-**Fun Facts**
+<h3 align="left">Fun Facts: </h3> 
+
 - Midnight snacking + debugging is a real combo
 - Tea is mandatory (productivity depends on it)
 - I automate stuff even if it takes longer the first time
