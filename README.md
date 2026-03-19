@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Dhruv%20Gaur&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvgaur10&color=blue)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=dhruvgaur10&color=blue" alt="Profile Views"/>
+</p>
+
 ## About Me
 
 I’m the kind of developer who enjoys the “real world” layer of tech where you automate the boring parts, debug what’s actually happening and make systems behave consistently.
