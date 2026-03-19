@@ -12,7 +12,7 @@ I like building **Windows CLI tooling**, writing **Python utilities that interac
 If something is slow, manual or unreliable I trace it, fix it, and usually script it so it doesn’t come back.
 
 
-My technical toolkit includes  
+**My Technical Toolkit Includes**  
 <p>
 <a href="https://www.python.org" title="python.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="Python"/></a>
