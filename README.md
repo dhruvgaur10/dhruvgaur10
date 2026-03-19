@@ -35,7 +35,7 @@ My technical toolkit includes
 
 **Fun Facts**
 - Midnight snacking + debugging is a real combo
-- Chai is mandatory (productivity depends on it)
+- Tea is mandatory (productivity depends on it)
 - I automate stuff even if it takes longer the first time
 - Most “small issues” turn into deep rabbit holes for me
 
