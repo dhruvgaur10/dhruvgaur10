@@ -2,11 +2,11 @@
 
 ## About Me
 
-I’m the kind of developer who enjoys the “real world” layer of tech where you automate the boring parts, debug what’s actually happening, and make systems behave consistently.
+I’m the kind of developer who enjoys the “real world” layer of tech where you automate the boring parts, debug what’s actually happening and make systems behave consistently.
 
-I like building **Windows CLI tooling**, writing **Python utilities that interact with the OS**, and turning manual steps into **repeatable workflows**. Alongside that, I work on **computer vision / ML inference** and practical **data workflows** scraping/collecting data, cleaning + validating it, running analysis, and presenting results through simple reports or dashboards.
+I like building **Windows CLI tooling**, writing **Python utilities that interact with the OS**, and turning manual steps into **repeatable workflows**. Alongside that, I work on **computer vision / ML inference** and practical **data workflows** scraping/collecting data, cleaning + validating it, running analysis and presenting results through simple reports or dashboards.
 
-If something is slow, manual, or unreliable I trace it, fix it, and usually script it so it doesn’t come back.
+If something is slow, manual or unreliable I trace it, fix it, and usually script it so it doesn’t come back.
 
 My technical toolkit includes  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="Python"/> 
