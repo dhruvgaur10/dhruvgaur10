@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Dhruv%20Gaur&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvgaur10&color=blue)
 ## About Me
 
 I’m the kind of developer who enjoys the “real world” layer of tech where you automate the boring parts, debug what’s actually happening and make systems behave consistently.
@@ -8,31 +8,84 @@ I like building **Windows CLI tooling**, writing **Python utilities that interac
 
 If something is slow, manual or unreliable I trace it, fix it, and usually script it so it doesn’t come back.
 
+
 My technical toolkit includes  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="Python"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="25" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="25" alt="CI/CD"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="25" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="25" alt="Nginx"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="25" alt="Bash"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&labelColor=111111&logo=nvidia&logoColor=white" height="25" alt="CUDA"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="25" alt="OpenCV"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="25" alt="Scikit-learn"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="25" alt="NumPy"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="25" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="25" alt="Matplotlib"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25" alt="SQL"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" alt="Power BI"/>
-<img src="https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="25" alt="Grafana"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="25" alt="Prometheus"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" height="25" alt="InfluxDB"/>
-<img src="https://img.shields.io/badge/Sockets-111111?style=flat&labelColor=111111&logo=socketdotio&logoColor=white" height="25" alt="Sockets"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="25" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="25" alt="PowerShell"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" height="25" alt="DNS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" height="25" alt="Windows"/>
+<p>
+<a href="https://www.python.org" title="python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="Python"/></a>
+
+<a href="https://git-scm.com/" title="git-scm.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="25" alt="Git"/></a>
+
+<a href="https://github.com/features/actions" title="github.com/actions">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="25" alt="CI/CD"/></a>
+
+<a href="https://www.docker.com/" title="docker.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="25" alt="Docker"/></a>
+
+<a href="https://kubernetes.io/" title="kubernetes.io">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="25" alt="Kubernetes"/></a>
+
+<a href="https://www.nginx.com/" title="nginx.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="25" alt="Nginx"/></a>
+
+<a href="https://www.gnu.org/software/bash/" title="gnu.org/bash">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="25" alt="Bash"/></a>
+
+<a href="https://pytorch.org/" title="pytorch.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/></a>
+
+<a href="https://developer.nvidia.com/cuda-zone" title="nvidia CUDA">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&labelColor=111111&logo=nvidia&logoColor=white" height="25" alt="CUDA"/></a>
+
+<a href="https://opencv.org/" title="opencv.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="25" alt="OpenCV"/></a>
+
+<a href="https://scikit-learn.org/" title="scikit-learn.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="25" alt="Scikit-learn"/></a>
+
+<a href="https://numpy.org/" title="numpy.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="25" alt="NumPy"/></a>
+
+<a href="https://pandas.pydata.org/" title="pandas.pydata.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="25" alt="Pandas"/></a>
+
+<a href="https://matplotlib.org/" title="matplotlib.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="25" alt="Matplotlib"/></a>
+
+<a href="https://www.mysql.com/" title="mysql.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25" alt="MySQL"/></a>
+
+<a href="https://powerbi.microsoft.com/" title="powerbi.microsoft.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" alt="Power BI"/></a>
+
+<a href="https://streamlit.io/" title="streamlit.io">
+<img src="https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="25" alt="Streamlit"/></a>
+
+<a href="https://grafana.com/" title="grafana.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="25" alt="Grafana"/></a>
+
+<a href="https://prometheus.io/" title="prometheus.io">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="25" alt="Prometheus"/></a>
+
+<a href="https://www.influxdata.com/" title="influxdata.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" height="25" alt="InfluxDB"/></a>
+
+<a href="https://socket.io/" title="socket.io">
+<img src="https://img.shields.io/badge/Sockets-111111?style=flat&labelColor=111111&logo=socketdotio&logoColor=white" height="25" alt="Sockets"/></a>
+
+<a href="https://www.linux.org/" title="linux.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="25" alt="Linux"/></a>
+
+<a href="https://learn.microsoft.com/powershell/" title="PowerShell">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="25" alt="PowerShell"/></a>
+
+<a href="https://www.cloudflare.com/" title="cloudflare.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" height="25" alt="Cloudflare"/></a>
+
+<a href="https://www.microsoft.com/windows" title="Windows">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" height="25" alt="Windows"/></a>
+</p>
 
 **Fun Facts**
 - Midnight snacking + debugging is a real combo
