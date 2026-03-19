@@ -13,6 +13,7 @@ My technical toolkit includes
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="25" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="25" alt="CI/CD"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="25" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="25" alt="Nginx"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="25" alt="Bash"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&labelColor=111111&logo=nvidia&logoColor=white" height="25" alt="CUDA"/>
