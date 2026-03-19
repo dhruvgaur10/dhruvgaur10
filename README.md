@@ -39,7 +39,7 @@ If something is slow, manual or unreliable I trace it, fix it, and usually scrip
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/></a>
 
 <a href="https://developer.nvidia.com/cuda-zone" title="nvidia CUDA">
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&labelColor=111111&logo=nvidia&logoColor=white" height="25" alt="CUDA"/></a>
+<img src="https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white&labelColor=76B900" height="25" alt="CUDA"/></a>
 
 <a href="https://opencv.org/" title="opencv.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="25" alt="OpenCV"/></a>
@@ -63,7 +63,7 @@ If something is slow, manual or unreliable I trace it, fix it, and usually scrip
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" alt="Power BI"/></a>
 
 <a href="https://streamlit.io/" title="streamlit.io">
-<img src="https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="25" alt="Streamlit"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="25" alt="Streamlit"/></a>
 
 <a href="https://grafana.com/" title="grafana.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="25" alt="Grafana"/></a>
@@ -74,8 +74,8 @@ If something is slow, manual or unreliable I trace it, fix it, and usually scrip
 <a href="https://www.influxdata.com/" title="influxdata.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" height="25" alt="InfluxDB"/></a>
 
-<a href="https://socket.io/" title="socket.io">
-<img src="https://img.shields.io/badge/Sockets-111111?style=flat&labelColor=111111&logo=socketdotio&logoColor=white" height="25" alt="Sockets"/></a>
+<a href="https://socket.io/" title="socket programming">
+<img src="https://img.shields.io/badge/-‎-010101?style=flat&logo=socketdotio&logoColor=white" height="25" alt="Sockets"/></a>
 
 <a href="https://www.linux.org/" title="linux.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="25" alt="Linux"/></a>
