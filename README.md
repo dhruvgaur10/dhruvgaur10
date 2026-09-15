@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Dhruv%20Gaur&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&text=Dhruv%20Gaur&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=dhruvgaur10&color=blue" alt="Profile Views"/>
 </p>
